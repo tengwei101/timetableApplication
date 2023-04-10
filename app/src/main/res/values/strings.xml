@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Timetable</string>
+
+    <string-array name="spinner_items">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+</resources>
